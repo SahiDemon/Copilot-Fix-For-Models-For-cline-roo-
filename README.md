@@ -1,9 +1,6 @@
 # Copilot-Fix-For-Models-For-cline-roo-
 Copilot Fix For Models For cline+roo to enable sonnent 3.7
 
-
-# Remove `x-onbehalf-extension-id` Header from GitHub Copilot Chat Extension
-
 This guide helps you remove the `x-onbehalf-extension-id` header from your GitHub Copilot Chat extension in VS Code.
 
 > **Note:** Modifying extension files may cause your changes to be overwritten during updates. Always back up the file before making changes.
